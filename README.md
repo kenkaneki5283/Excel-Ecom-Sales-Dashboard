@@ -37,4 +37,5 @@ Key Channels:  Amazon, Flipkart, and Myntra drive the majority of sales.
 ## 5) Conclusion  
 The project concludes that Vrindavan Store should focus on targeting women aged 30-49, particularly in Maharashtra, Karnataka, and Uttar Pradesh. Offering targeted promotions and discounts on platforms like Amazon and Flipkart is recommended to boost sales and enhance customer engagement.
 
-## 6) Screenshot/Demo   
+## 6) Screenshot/Demo     
+https://github.com/kenkaneki5283/Excel-Ecom-Sales-Dashboard/blob/main/Excel-Ecom-Sales-Dashboard.png 
